@@ -1,4 +1,4 @@
-HELP_TXT = """**🌟 Help Menu** 
+HELP_TXT = """**Help Menu** 
 
 **__FOR PRIVATE CHATS__**
 
